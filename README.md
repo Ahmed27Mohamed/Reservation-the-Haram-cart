@@ -19,7 +19,7 @@
 
 9- update data firebase realtime in App
 
-10- ## **📌 Available on [Amazon Store](https://www.amazon.com/dp/B0FLM9WB8R?dib=eyJ2IjoiMSJ9.JYMHEm9cHeT90Lvz1ktdnxwNf4UvRM7GV-23MlKA5Vx36pGTtqm9_SzuRAhq4ywQPxlWWpRsxNXINk9uublCgyI_C_jj7MjE3C1xZp1d1NY.BrO_8m3He5q1GGMmopUJIvAh26443G0Xn5dETf8Kd8Q&dib_tag=se&qid=1754622354&refinements=p_4%3AAhmed+Mohamed&s=mobile-apps&search-type=ss&sr=1-3)**
+10- ## **📌 Available on [Amazon Store](https://www.amazon.com/dp/B0FLKG65ND?dib=eyJ2IjoiMSJ9.JYMHEm9cHeT90Lvz1ktdnxwNf4UvRM7GV-23MlKA5Vx36pGTtqm9_SzuRAhq4ywQPxlWWpRsxNXINk9uublCgyI_C_jj7MjE3C1xZp1d1NY.BrO_8m3He5q1GGMmopUJIvAh26443G0Xn5dETf8Kd8Q&dib_tag=se&qid=1754622354&refinements=p_4%3AAhmed+Mohamed&s=mobile-apps&search-type=ss&sr=1-4)**
 
 
 ## Splash Screen
